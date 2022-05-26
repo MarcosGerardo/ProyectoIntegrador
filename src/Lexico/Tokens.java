@@ -14,6 +14,8 @@ public enum Tokens {
     Igual,
     Suma,
     Resta,
+    Menor,
+    Mayor,
     Multiplicacion,
     Division,
     Identificador,
